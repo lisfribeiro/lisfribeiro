@@ -1,5 +1,6 @@
-## Olá! Eu sou a Lis Ribeiro
+## Olá! Eu sou a Lis Ribeiro 👋
 
+- 🔭 Desenvolvedora Back-end
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
