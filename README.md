@@ -28,4 +28,4 @@
 <a href="https://www.linkedin.com/in/lis-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
 
-![Skane animation](https://github.com/lisfribeiro/lisfribeiro/blob/output/github-contribution-grid-skane.svg)
+![Skane animation](https://github.com/lisfribeiro/lisfribeiro/dist/github-contribution-grid-snake.svg)
