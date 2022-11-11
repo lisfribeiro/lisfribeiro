@@ -7,6 +7,8 @@
 <div> 
 <a href="https://github.com/lisfribeiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisfribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisfribeiro&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Lis-Js" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Lis-Ts" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
