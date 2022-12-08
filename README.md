@@ -4,6 +4,9 @@
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
+<div> 
+<a href="https://github.com/lisfribeiro">
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=lisfribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
 <img align="center" alt="Lis-Java" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Lis-Spring" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
